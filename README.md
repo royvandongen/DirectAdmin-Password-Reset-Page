@@ -62,7 +62,7 @@ This option is required by the Google ReCAPTCHA and should contain the SECRET wh
 In addition to the organisation logo a custom background can be set. This can be done by creating a background.png file under the img/ directory.
 
 ### Screenshots
-
+![Picture of installation for Ons WestBrabant](screenshots/DirectAdmin-Password-Reset-Page.png)
 
 ### Background of Password-Reset Page
 The Password-Reset page consists of nice frontend environment ( index.php ) and a backend environment ( reset_email_password.php ). If you really want it, you can split the frontend from the backend. Thats what the Site-Token is for.
