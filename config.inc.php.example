@@ -1,0 +1,21 @@
+<?php
+/*
+    More information about this configuration can be found on the Github project page. https://www.github.com/royvandongen/DirectAdmin-Password-Reset-Page
+*/
+
+
+    define('DA_HOST','https://{{{HOSTNAME}}}');
+    define('DA_PORT','2222');
+    define('DA_USER','{{{USERNAME}}}');
+    define('DA_PASS','{{{PASSWORD}}}');
+
+    define('ORG_DOMAIN','{{{ORG_DOMAIN}}}');
+    define('ORG_NAME','{{{ORG_NAME}}}');
+    define('ORG_FOOTER','{{{ORG_FOOTER}}}');
+    define('ORG_LOGO','{{{ORG_LOGO}}}');
+
+    define('SITE_TOKEN','{{{SITE_TOKEN}}}');
+    define('RECAPTCHA_SITEKEY','{{{RECAPTCHA_SITEKEY}}}');
+    define('RECAPTCHA_SECRET','{{{RECAPTCHA_SECRET}}}');
+
+?>
